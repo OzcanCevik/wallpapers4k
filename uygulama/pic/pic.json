@@ -1,6 +1,5 @@
-[
-	
-{"menuismi":"Sensorler",
+[	
+{"menuismi":"Entegreler",
 "resim":"https://www.direnc.net/arduino-tilt-sensor-modulu-sw520d-egim-ivme-gyro-sensorleri-china-31342-10-B.jpg",
 "key":"sensor"},
 
@@ -9,11 +8,7 @@
 "key":"proje"},
 
 
-{"menuismi":"Kütüphaneler",
+{"menuismi":"Pic Programlama dersleri",
 "resim":"https://www.apparelthing.com/wp-content/uploads/2013/11/library-data.jpg",
 "key":"kutuphane"}
-
-
-
-
 ]
